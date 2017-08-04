@@ -1,0 +1,22 @@
+{
+  "name": "rename-props-deep",
+  "version": "1.0.0",
+  "description": "Rename js object fields and return a deep copy.",
+  "repository": "https://github.com/zhaoyao91/rename-props-deep.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "zhaoyao91 <zhaoyao91@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  },
+  "dependencies": {
+    "lodash.clonedeep": "^4.5.0",
+    "lodash.get": "^4.4.2",
+    "lodash.has": "^4.5.2",
+    "lodash.set": "^4.3.2",
+    "lodash.unset": "^4.5.2"
+  }
+}
